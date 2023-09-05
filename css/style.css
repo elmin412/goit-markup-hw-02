@@ -1,0 +1,69 @@
+.body {
+    font-family: 'Roboto' sans-serif;
+    color: #2E2F42;
+    
+}
+.logo  {
+    font-family: Roboto;
+
+}
+
+ /* site-logo */
+.text-logo {
+    color: #3147c2;
+}
+
+
+
+ /* nav-list */
+.nav-link {
+    color: black;
+    font-size: 24px;
+
+}
+
+.nav-link:hover {
+    color: #3147c2;
+
+}
+
+/* section1 */
+.hero-section {
+    background-color: #26265e;
+}
+
+  
+.tagline {
+    color: white;
+    font-size: 56px;
+    font-weight: 700;
+
+}
+
+.hero-button {
+    color: white;
+    background-color: #404BBF;
+}
+
+.hero-button:hover {
+    background-color: #404BBF;
+}
+
+/* our-team/ */
+.link-icon {
+    
+}
+
+.link-icon :hover   {
+    ;
+}
+
+/* address */
+.contacts {
+    color: #000000;
+    font-size: 18px;
+}
+
+.contacts :hover {
+    color: #0015fd;
+}
