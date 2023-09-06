@@ -17,6 +17,13 @@ body {
     text-transform: uppercase;
     color: #4d5ae5;
 }
+.logo-nav :hover {
+    color: #404BBF;
+}
+
+.logo-nav :focus {
+    color: #404BBF;
+}
 
 .text-logo {
     color: #2e2f42;
@@ -52,12 +59,13 @@ body {
 
 }
 
-.contacts :hover {
+
+.adds .contacts :hover {
     color: #404BBF;
 
 }
 
-.contacts :focus {
+.adds .contacts :focus {
     color: #404BBF;
 }
 
@@ -114,7 +122,7 @@ body {
 
 }
 
-.item {
+.item-plan {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
