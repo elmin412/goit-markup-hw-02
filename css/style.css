@@ -142,10 +142,11 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    background-color: #FFFFFF ;
 }
 
 .leader-background {
-    background-color: #FFFFFF;
+    
 }
 
 .staff {
