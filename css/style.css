@@ -38,11 +38,11 @@ body {
 }
 
 
-.nav-list .chapter :hover {
+.nav-list .chapter:hover {
     color: #404BBF;
 }
 
-.nav-list .chapter :focus {
+.nav-list .chapter:focus {
     color: #404BBF;
 }
 
